@@ -11,3 +11,16 @@ Fuchsia
 Gray
 Brown
 Red
+crimson
+orange
+Blue
+Cyan
+Yellow
+Charcoal
+Khaki
+Coral 
+Silver
+Fuchsia
+Purple
+Brown
+Red
